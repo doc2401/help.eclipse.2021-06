@@ -1,0 +1,607 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.gef.fx.doc;singleton:=true
+Bundle-Name: GEF FX Developer Documentation
+Bundle-Version: 5.0.5.202106080200
+Built-By: jenkins
+Require-Bundle: org.eclipse.swt;bundle-version="[3.102.0,4.0.0)";resolut
+ ion:=optional,org.eclipse.jface;bundle-version="[3.10.0,4.0.0)";resolut
+ ion:=optional,org.eclipse.ui.views;bundle-version="[3.6.0,4.0.0)";resol
+ ution:=optional,org.eclipse.gef.common;bundle-version="[5.0.0,6.0.0)";r
+ esolution:=optional,org.eclipse.gef.geometry;bundle-version="[5.0.0,6.0
+ .0)";resolution:=optional,org.eclipse.gef.geometry.convert.fx;bundle-ve
+ rsion="[5.0.0,6.0.0)";resolution:=optional,org.eclipse.platform.doc.isv
+ ;bundle-version="[3.0.0,5.0.0)",org.eclipse.gef.common.doc;bundle-versi
+ on="[5.0.0,6.0.0)",org.eclipse.gef.geometry.doc;bundle-version="[5.0.0,
+ 6.0.0)"
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse/gef.git;pat
+ h="org.eclipse.gef.fx.doc";commitId=6d0677016f9b6990b398bbc7742d7d888ac
+ 35d70
+Bundle-Vendor: Eclipse GEF
+Import-Package: com.google.common.reflect;version="12.0.0";resolution:=o
+ ptional
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_202
+
+Name: plugin.xml
+SHA-256-Digest: 93oLIuHTr+EkBrby4Pm0MAHBM4krn90968pxQ4tlq1g=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/Connection.html
+SHA-256-Digest: I6Oudt6vc+CWu9IC8X2fmwZNvM8SypZxaH3iU/UnkrI=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/InfiniteCanvas.html
+SHA-256-Digest: H+kT151TzWiKkEObzS8n1HCgoXz/D/lQpVDENl7utuk=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/package-use.html
+SHA-256-Digest: rwyK3cBNKTZtHUZnbtiP0EdvZMAYJbBup907ATHqPZo=
+
+Name: reference/api/overview-tree.html
+SHA-256-Digest: CqEdUjP3MSQ0M7JNDNSYu2UqrnvFNWrrizi2GDuDDcE=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/ChopBoxStrategy.html
+SHA-256-Digest: NGqOS+C5QvO7ANeBN07waDa9qgd3VfS87lmR8M0CQ00=
+
+Name: reference/api/org/eclipse/gef/fx/swt/canvas/class-use/FXCanvasEx.h
+ tml
+SHA-256-Digest: BYhu82HOcuKoq0r8Kk6e7X/W4+4pg/3VWTwvzW1W4E0=
+
+Name: reference/api/org/eclipse/gef/fx/FxBundle.html
+SHA-256-Digest: x+H2nIOlLmUkEsvWxKSFIA5ulEAIPup0RuSLPLnpzwE=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/DynamicAnchor.AnchorageRe
+ ferenceGeometry.html
+SHA-256-Digest: lu8yexmKhsTO5Eu6fRiTNYbPateZisBk2rAasJHZOdw=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/IConnectionInterpolator.htm
+ l
+SHA-256-Digest: vMtQPC2r9V/7yPPSmLltTQ+ohiU/j8q9IL1jZyrBeM0=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/package-use.html
+SHA-256-Digest: kHnHJcVduTabBeaJbXGM76rzcJt//ICEN9O8jaVKUwg=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/DynamicAnchor.A
+ nchorageReferencePosition.html
+SHA-256-Digest: RODSzuSg2KY3Uhca6PizYhqPqcOuDQvsWRJ7PN83m34=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/HoverOverlayImageView.html
+SHA-256-Digest: UAnmvVnGD24V8pX38ybF/mL2LRj6yl7jZZBIVrzWr6M=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/IComputationStrategy.Para
+ meter.Kind.html
+SHA-256-Digest: 2mKk0u2i5vhJ4Nx4TAPE0ecOy+9xsouAt2dwXK4sZ3A=
+
+Name: reference/api/org/eclipse/gef/fx/package-summary.html
+SHA-256-Digest: 859HRdL5anDf/q+Z0Y6dXFyDR+B5BFHUJ4pp0MM6RMU=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/PolylineInterpola
+ tor.html
+SHA-256-Digest: xwzvwH0mAHwI3IiCeHHaENWwVbMtoJMC4UK6YkdiOwE=
+
+Name: reference/api/org/eclipse/gef/fx/utils/Shape2Geometry.html
+SHA-256-Digest: dvbHP63fS9gWVGXA6YY3Bs8Ug1uELdwuRUTfxnzpdgg=
+
+Name: reference/api/index-files/index-13.html
+SHA-256-Digest: HOjjeOQndBKpO7IBQo6DVwq8X/0CNe4CquiJFj+2Fmg=
+
+Name: book.css
+SHA-256-Digest: 4O//J9yMdWIprxPb3Iae60TAdJ1yKsYFcVn0darwoW8=
+
+Name: about.ini
+SHA-256-Digest: dJnpCx3Bbij7WuygdxEHHHdTDeteCiPLA3svbr565Tw=
+
+Name: reference/wiki/images/fx/GEF-FX-HoverOverlayImageView-2.png
+SHA-256-Digest: eph3NGctwWzEhQaD88PznDbdn0Y3qwrz5xrPsLLE+bw=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/DynamicAnchor.h
+ tml
+SHA-256-Digest: UZd4+HnFUJZwDWpFHWcIpNQA/0sj5HiJGXEEnd5Xoek=
+
+Name: reference/api/org/eclipse/gef/fx/jface/class-use/FXPaintCellEditor
+ .html
+SHA-256-Digest: PtIeOGSiZmCdWucpZ4zEp7QgxaMlQJhDfEOX+GJFqjg=
+
+Name: reference/api/index-files/index-12.html
+SHA-256-Digest: l9G2NgaWHW58SPbP+0Qt+ijN4sYbGvlkAPfUpcodMK8=
+
+Name: reference/api/index-files/index-6.html
+SHA-256-Digest: q755IRuwphNZodzZ3plDq1CGQoE+6cxcRw3jKtoo2lg=
+
+Name: reference/api/org/eclipse/gef/fx/utils/package-tree.html
+SHA-256-Digest: nmdFS/SOyrDJgMX12UpMfpo1mWgO9dQc3o02t/YzbkI=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/FXControlAdapter.ICo
+ ntrolFactory.html
+SHA-256-Digest: SgkXWnggO5CWVkMAs4t0wlwpzhjSFbzjHmAqkw+w35Y=
+
+Name: reference/api/index-files/index-11.html
+SHA-256-Digest: d15Mi/xmKQA1xEsNsNnq9ZihnkEViG8ewpgyUgVpQ2A=
+
+Name: reference/api/org/eclipse/gef/fx/utils/NodeUtils.html
+SHA-256-Digest: ksUndWBJQdKkIFgc3g88sDWJmsFouUQQKCEW3eNB250=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/package-summary.html
+SHA-256-Digest: rxv9UOX5ZPhNRG8T7nGtAvxQ8SjVsCiLNqhL2ebqizA=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/AbstractRouter.ht
+ ml
+SHA-256-Digest: luc5ucBwstva9e7A+XYXpZhT6epE1Sv8vUK57w23xDY=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/GeometryNode.html
+SHA-256-Digest: 35Zj27nyh8HlBVTvbI9K5RdT4DnJMiKEncEsdXQ2cn8=
+
+Name: reference/wiki/images/fx/GEF-FX-SWT-FXSimpleLinearGradientPicker.p
+ ng
+SHA-256-Digest: 2tp+NcUcIY34E+XWGSL08m1lWBC9wKA8O2gGAzSOdB8=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/AnchorKey.html
+SHA-256-Digest: 2vCbnibJ4Ky0Olbb9vGnrOmqvXN6Uwqd4fHKgNcxm4Q=
+
+Name: reference/api/index-files/index-5.html
+SHA-256-Digest: MMYx1fKReH4FIokMU+hfeTAb+HKVYYpt4V0E2+IuizQ=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/DynamicAnchor.html
+SHA-256-Digest: XC74WUJpgQ5fSc04TqbwJO/xyOUpdZvweoo6i4D0iIs=
+
+Name: reference/api/index-files/index-8.html
+SHA-256-Digest: Svh7md/KFNAt49nJnnt8IY6CliTHOlVUt3iqSGNw+kY=
+
+Name: toc.xml
+SHA-256-Digest: ALYCYhZCzGlFtggJx8ilef5pJ9NxsWs5KFmffavZeHI=
+
+Name: reference/api/org/eclipse/gef/fx/jface/package-tree.html
+SHA-256-Digest: hqXs5A/vtffgNf+eWBW1cLlJxctUq/+mRLcQKTl5cZY=
+
+Name: reference/api/org/eclipse/gef/fx/swt/canvas/package-summary.html
+SHA-256-Digest: ktTStxl0Vxovmd26qFhfhjkJMyxDerGVm15kiG06C+0=
+
+Name: reference/api/index-files/index-14.html
+SHA-256-Digest: cCjv5CxAoZiAYmjZ+Vq4PZx9TapkDcasSMUG6VUL35k=
+
+Name: reference/api/org/eclipse/gef/fx/jface/FXPaintUtils.html
+SHA-256-Digest: D1gzVci/VlGJTOmDBo4wMdZWuU8OM1jJM20Onu8rhcM=
+
+Name: reference/api/org/eclipse/gef/fx/jface/class-use/FXPaintSelectionD
+ ialog.html
+SHA-256-Digest: OgD8KXE1XRqWT7AC/HzxsTS32KXeMzkhC9wnyeAUnSU=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/ProjectionStrategy.html
+SHA-256-Digest: 0ITVUYKfL4oS32fGawCdCyC604KxX6Onl/RGJq26K7s=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/package-frame.html
+SHA-256-Digest: goxoAg7jULLmHo0lNviwX/iaMNOTMeQzAk68QL5twJI=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/FXColorPicker.html
+SHA-256-Digest: OhOrk1xcy3UEXqLXDuRistqm9UpWOzraQefxKKml808=
+
+Name: reference/api/constant-values.html
+SHA-256-Digest: hIfy/bdyiSyRC41W5NyOKODtR8yupzVBfwsk5EQk3rY=
+
+Name: reference/api/org/eclipse/gef/fx/listeners/package-frame.html
+SHA-256-Digest: hjfRJhe+jYzKP3iagcgCYNTn/wUdxcfzIHauvXzAGHY=
+
+Name: reference/api/index-files/index-15.html
+SHA-256-Digest: qcWTm6L6OfGKtHHlPUtwxmfa9kF9QPv22Aby95VBhi4=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/IConnectionRouter
+ .html
+SHA-256-Digest: YgUHtfHz4tEERFK3D0FOD73gN0k/Hq+/vBF66COKlJk=
+
+Name: reference/api/index-files/index-2.html
+SHA-256-Digest: F2sDft2rt5EIERiHUpbk4V//Eb2TkaeOtz7OIHHWCOk=
+
+Name: about.mappings
+SHA-256-Digest: T/nDjGSvS2RJ2bpRIE0ORwLpt1fApQcHjphXDb+QMIE=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/DynamicAnchor.A
+ nchorageReferenceGeometry.html
+SHA-256-Digest: IKKQQG573hhaeM0whSWsxILjw7I6jOHCRI96CWj+TaA=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/PolyBezierInterpolator.html
+SHA-256-Digest: Z/25Zz5/P6ow0l8asRg+F9Mm/y+Oe1Js/aK/lNPtTMU=
+
+Name: reference/api/index-files/index-9.html
+SHA-256-Digest: A76eDIHtbeoVoTU3oq7zNYZ5Ogs1s+y8MZkN5HFVtGY=
+
+Name: reference/api/org/eclipse/gef/fx/jface/FXPaintSelectionDialog.html
+SHA-256-Digest: 9oKjnBXMPrKNQltYaDeuJOc3KpS6xwbNehus4o0IHno=
+
+Name: reference/api/index-files/index-3.html
+SHA-256-Digest: /1AADHGZqpSKwe9ZDzahyeMVaWQ1dOgklnv+RaQlDho=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/GeometryNode.html
+SHA-256-Digest: Ayy66V6DHDWtjn3WdFbLMC6+xTyG+1Iciit7rINVhoY=
+
+Name: gef_eclipse_logo_32.png
+SHA-256-Digest: 3gjt8pGYyF7O9G8DmyVCJGnZ0uzj6jfJwG5MgJjWJoQ=
+
+Name: reference/api/org/eclipse/gef/fx/listeners/package-summary.html
+SHA-256-Digest: JZj03iN0cn4VkQzutPHi99j43fbsz+SQ8VbBAAwQb3A=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/IComputationStr
+ ategy.html
+SHA-256-Digest: 9N5JdtCefOZuQKSe//HlSm4xICiMy1Z0HUAmebhmOzc=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/InfiniteCanvas.ht
+ ml
+SHA-256-Digest: zKpOGs0boM/eBb5JMEteChfZpFiLybUnHZb3ihZ6MX4=
+
+Name: reference/api/org/eclipse/gef/fx/jface/FXPaintLabelProvider.html
+SHA-256-Digest: nbNot/fnnZmUmnWyOYlDZVIkBg1H6h2s+cJmdqysquo=
+
+Name: reference/api/deprecated-list.html
+SHA-256-Digest: nz5hl50Q3Kj9SeNHC+sml3uBIyOBcLwD7IW8aRE/H6Y=
+
+Name: reference/wiki/images/fx/GEF-FX-SWT-FXAdvancedGradientPicker.png
+SHA-256-Digest: IGYiajAcg5YLtkyPnIRNi0A2UNMGiQVrtcmfaxKC0cY=
+
+Name: reference/wiki/FX-toc.xml
+SHA-256-Digest: 3uUos7f6GcEUtgf5DKgd8zlyfGts4mN0z+W4J+GyhFI=
+
+Name: reference/api/package-list
+SHA-256-Digest: jzRtTvCi+cPgiWjigcbojS92VpOfRuJ/USrqgR3IBFo=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/package-summary.html
+SHA-256-Digest: JLG0SahhFxv/j+BzIcOlBUpcZyuHLu0Ih4ClDq427aY=
+
+Name: reference/api/org/eclipse/gef/fx/swt/canvas/class-use/IFXCanvasFac
+ tory.html
+SHA-256-Digest: +NmyDhXuM2Y7uy/N7igQuG3rBhjDgHhOGc8IUCeoURk=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/FXControlAdapter.htm
+ l
+SHA-256-Digest: gKnwLRMA9Kck2b1xuqv7GCedjelRzuoXKHjO9IX0Ij4=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/IComputationStr
+ ategy.Parameter.html
+SHA-256-Digest: NJF2L5+WjqTdwU4uaS2YrneYjrgQMCZVFOHgl/8jEt4=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/package-use.html
+SHA-256-Digest: rociWaK0VOzXS1gtHMSIOB87HhCvWngbmH+pv61E/f4=
+
+Name: reference/api/org/eclipse/gef/fx/listeners/package-tree.html
+SHA-256-Digest: UtkXVY+FUkdBOdniBIVISCs6ywJhrEbRnMApVI9VDuw=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/AbstractInterpolator.html
+SHA-256-Digest: M8l5XsABfy7V4YtTnf7hJhpov7FiTRFlfXZfYuu5UUk=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/AbstractRouter.Vo
+ latileStaticAnchor.html
+SHA-256-Digest: 5UpxI/PkupNTnk/zbmR2NshYxLglixzuIyCXi0FoJIs=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/class-use/FXControlA
+ dapter.html
+SHA-256-Digest: 8gxi2IXBTUlbPfUQWgxKS6N7YHnEURZvsxbl0nZMVG4=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/AbstractInterpola
+ tor.html
+SHA-256-Digest: 2UPluKeTksVIkxdASR/nxbyYMv58ynA6dZfxF6WwKW8=
+
+Name: reference/api/org/eclipse/gef/fx/utils/package-frame.html
+SHA-256-Digest: Q66KEMw5KB0prpiq7uXIMeH5NtwWgo4f2mrMDfUZjOU=
+
+Name: reference/api/org/eclipse/gef/fx/swt/canvas/package-tree.html
+SHA-256-Digest: To8oalNBRvwsS0gh7fRYlqKadmfBClS3j2VI1E5vE6w=
+
+Name: reference/api/org/eclipse/gef/fx/utils/class-use/Geometry2Shape.ht
+ ml
+SHA-256-Digest: GTqbEF/aLY4XUoV50c0ZPi/VWgqvEMAKTZFiaZ+IaJw=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/AbstractAnchor.html
+SHA-256-Digest: /1qF5veQ3A1HkiZ9JmF1IE23CViLsFTAtmLILmkSwPk=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/AbstractRouter.ControlPoint
+ Manipulator.html
+SHA-256-Digest: tIA8k28xfnM8C7NEW3se49Fa0eLcPYQZi3p5ARjaQII=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/class-use/FXSimpleLi
+ nearGradientPicker.html
+SHA-256-Digest: GMR3VFrWRjcYV0xErAvegnu8DzlERs5J5BwAgG08za0=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/FXAdvancedLinearGrad
+ ientPicker.html
+SHA-256-Digest: WMgBV1RwFwOw92YH2TWuJaYv0Z3Y0JKQ9jJtjUCWEuY=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/package-tree.html
+SHA-256-Digest: PbDWScFf1UMnK7y8+Ort0454yikm3D46wp+IlSH233I=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/AbstractRouter.VolatileStat
+ icAnchor.html
+SHA-256-Digest: o5tco3H8Qk0aHGo4be/uFVEFzb/9sChLhq0QRHMhGJ4=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/package-tree.html
+SHA-256-Digest: RAQSFq7MHQOC6zTwVpe2LHqulNA8IcnmcPpPJwldYZY=
+
+Name: reference/api/org/eclipse/gef/fx/jface/package-frame.html
+SHA-256-Digest: TQ8GiciWXtiz2Z2UpL939//YlzM4RnHw28zu/iIkUC0=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/AbstractRouter.Co
+ ntrolPointManipulator.html
+SHA-256-Digest: eGgfeb02/bJ2lErkokw9WnLuIIKmrGlsiHfYsbmk+nQ=
+
+Name: reference/api/org/eclipse/gef/fx/swt/canvas/IFXCanvasFactory.html
+SHA-256-Digest: Uljbxawnrv4ajFJClJKxtYvZAN2B1jnlwuA8oZVhsVk=
+
+Name: about.properties
+SHA-256-Digest: axhOOXYMPikfyn6Ux/PUuJrTHIF0ThTMy4oBAcyK9OQ=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/IComputationStr
+ ategy.Parameter.Kind.html
+SHA-256-Digest: CIOt84Fkcjbe6chUQhTPO6yHrVb4/WYLdb11fr6dQCk=
+
+Name: reference/api/org/eclipse/gef/fx/swt/canvas/package-use.html
+SHA-256-Digest: YBvsLBrDcACLXd3eAEt66W1U0jtcneU60t9KGF5A6co=
+
+Name: reference/api/index-files/index-18.html
+SHA-256-Digest: m9SE5gbxDpS+Jdyg7jC4XNT7qGy4Fhq54GC+Uw8qAyk=
+
+Name: reference/api/stylesheet.css
+SHA-256-Digest: G9fhf+PVG813X/8Ib2axn8l6L0ZySPOC2DEMaxFMTV4=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/AbstractRouter.html
+SHA-256-Digest: lhDJnVT6Cbno2rCuurItD2KouIZ0gAsc2UhQToSuJ4c=
+
+Name: reference/api/org/eclipse/gef/fx/jface/class-use/FXPaintLabelProvi
+ der.html
+SHA-256-Digest: mNR/J2X7vc2Rv9wtLhijXEWsXLVr34JXmWdballEJX8=
+
+Name: reference/api/org/eclipse/gef/fx/utils/CursorUtils.html
+SHA-256-Digest: 6vBx7w6gpA+uJ69pVuIegGCrglRzmwUqzPS/M65pjA8=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/DynamicAnchor.A
+ nchoredReferencePoint.html
+SHA-256-Digest: lNxBfdiGaK96nmBO5EX9dw0/0vV8zHpOaCdBcAP6PRg=
+
+Name: reference/api/index-files/index-21.html
+SHA-256-Digest: VlubLlnwgm5oQrUM3gC0QS/owctKe8FF2iYfxcm0n6g=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/package-frame.html
+SHA-256-Digest: EWP/wjdhdMpg/aZqO/3RYiqdqfll+6q621Lc43Gowjg=
+
+Name: reference/api/org/eclipse/gef/fx/package-tree.html
+SHA-256-Digest: O2xP9UZ2VwqiZavEHbdVHduuNvtV+qGO7Mj4GYV+wY8=
+
+Name: reference/api/org/eclipse/gef/fx/jface/FXPaintCellEditor.html
+SHA-256-Digest: x3J0rxdPp7ah94d6xb8FhPwSwOMkV1tBs0XjSFG33Xs=
+
+Name: reference/api/index-files/index-20.html
+SHA-256-Digest: GVa3NY2lfY6tgXvsH/H1+u/3YABk1Z647gyV2cCe/Bc=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/StaticAnchor.html
+SHA-256-Digest: 2XkkQXYb8Ce62zuHYDf6KH9SBgg/JAt7zpj2KsBh1Jk=
+
+Name: reference/api/index-files/index-19.html
+SHA-256-Digest: zcH0Vr/25W6JHboYLX+iVdbGHxosjj6bUpqSXvqVyyk=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/AbstractAnchor.
+ html
+SHA-256-Digest: i75ZblP8rjHO0n80jhj+OQQSbxSwEpO3woCxJPAh7q4=
+
+Name: reference/wiki/images/fx/GEF-FX-JFace-FXPaintSelectionDialog.png
+SHA-256-Digest: eHEnAgTfUofxPQVz/T137hM28YvfP+eVSR6XAhSbKAA=
+
+Name: reference/api/help-doc.html
+SHA-256-Digest: vLe9hFA+AI/XvL0OS98pWmgFRsWhchCVW9Gfj27E38s=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/OrthogonalProjectionStrat
+ egy.html
+SHA-256-Digest: T1N9aeRr8yWL21D5JlEDYwLZeGg04P9auOwihGjZg64=
+
+Name: reference/api/org/eclipse/gef/fx/utils/class-use/NodeUtils.html
+SHA-256-Digest: TMSN7w+8mZikY1MB2kGwn/ixz2T2kncbxegvar8Ncqg=
+
+Name: reference/api/org/eclipse/gef/fx/jface/class-use/FXPaintUtils.html
+SHA-256-Digest: mpEwRLgmgbPEAH7T1NtkIK29UYDiswkogpG1qS6gbL4=
+
+Name: reference/api/script.js
+SHA-256-Digest: UGOTFhtpJWj1iNaL6uz5rV0z8UerrZCdnN4SkY2857c=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/StraightRouter.ht
+ ml
+SHA-256-Digest: JWhZUQFksjabeRdgNzqXdxo6tdOrnI9ZsOlL04Bt76s=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/IConnectionRouter.html
+SHA-256-Digest: vP6RD3EbY0rDTWcqJZl5omSpVfE6aOsAIdEqOgfcqxQ=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/AnchorKey.html
+SHA-256-Digest: px4Evt+NpZwWoaUPG2hdDThVRgyXcZoEIy8+6lUn50w=
+
+Name: reference/api/org/eclipse/gef/fx/package-use.html
+SHA-256-Digest: fMPfQkhqdWZEp3kGyvhForI81NKpxdhIAi1WUC4UXvM=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/OrthogonalProje
+ ctionStrategy.html
+SHA-256-Digest: uJdvRLv+N/fc8H9hr19jqNdHxzWx3aU6QFmGF+J8IrY=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/class-use/FXColorPic
+ ker.html
+SHA-256-Digest: lfcr1Ge1x+nvTzzWJKgGflc9qYK3SRqFyxqvqZjxorM=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/HoverOverlayImage
+ View.html
+SHA-256-Digest: UPR4HWDzIW0f5wdu8K0zQlUG7KLCLXWXYGTtn+zN390=
+
+Name: reference/wiki/images/fx/components.fx.jpeg
+SHA-256-Digest: xm0ifo0Qc7UUjlAooIqvPZ8W/i/t4rYtBn2g8le1i5c=
+
+Name: reference/api/org/eclipse/gef/fx/utils/class-use/Shape2Geometry.ht
+ ml
+SHA-256-Digest: pF83MqjzxWaPoCm7XVqpRIH7+n7pg5vwO0/QOs2r7fA=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/package-tree.html
+SHA-256-Digest: xnzmtFPDiKjipNvvvwLq2fwQTheuNYEkTxZVwoPpQS0=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/IComputationStrategy.html
+SHA-256-Digest: Q9WcGSOFS/cN7tqzYgbrMlu0wifrEPKjIEnbtamtCqU=
+
+Name: reference/api/org/eclipse/gef/fx/jface/package-use.html
+SHA-256-Digest: esZmENTzM1enJXrwpXTQ7r36rdmPo9Cbd/vlN5aHmBA=
+
+Name: reference/api/org/eclipse/gef/fx/listeners/VisualChangeListener.ht
+ ml
+SHA-256-Digest: +q9BjyL5eTviD2xl6km41zR5c9vgt2Zmseri7EXwlrU=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/class-use/FXAdvanced
+ LinearGradientPicker.html
+SHA-256-Digest: ngCP6V+oz4QcDPEeMOQKP+o1F8xwHymzo2z5ScMJybg=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/IConnectionInterp
+ olator.html
+SHA-256-Digest: P4jutxCLPxYOZUD1K5bu84mT3lc4hpoxGlf9NMP4v5s=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/ProjectionStrat
+ egy.html
+SHA-256-Digest: AqjzomYxY7BSChvdOPbpVajRaDeaVOEHXDMWDp5oCvw=
+
+Name: reference/api/org/eclipse/gef/fx/utils/Geometry2Shape.html
+SHA-256-Digest: zteCYo/daBsAdR8qyGdAktBGW1Q5LkLjVuLcqVU3GlM=
+
+Name: reference/api/org/eclipse/gef/fx/utils/package-summary.html
+SHA-256-Digest: zgZ4BScztDci/tpx9edUnMXEvIZ0UwIMRipLQKhtAF0=
+
+Name: reference/api/overview-summary.html
+SHA-256-Digest: d6ErmBNjCAvMCWC2yP5HMeBdWiP2YYQE7mAAmRNmKTs=
+
+Name: reference/api/org/eclipse/gef/fx/utils/package-use.html
+SHA-256-Digest: +ZzakJcFaNHKIsFjfuhwyWQl0ru0qtcl0l54ZJgi0vE=
+
+Name: reference/api/index-files/index-17.html
+SHA-256-Digest: wCSJAPxF9tBNkzYy/2p83oXEq/gjpUE1lcHEya3UiPY=
+
+Name: reference/api/allclasses-frame.html
+SHA-256-Digest: EhDNRhajHjNO5ivcL81sP7PBM1MXVa+sNBhiDMdyMB0=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/IComputationStrategy.Para
+ meter.html
+SHA-256-Digest: YVFKTRw0IgCQRWOZ0YDaEN2K3vj+aDVSDTirmLhMAh4=
+
+Name: reference/api/org/eclipse/gef/fx/listeners/class-use/VisualChangeL
+ istener.html
+SHA-256-Digest: GpJigRwCQvzX2mce7LQdXfwIY6GsGGBnhxOMogZvD88=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/IAnchor.html
+SHA-256-Digest: Oo6cj7apQQGTb9ErdgTDsL0ov1pXe2u1qT43lzYBqgc=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/DynamicAnchor.AnchorageRe
+ ferencePosition.html
+SHA-256-Digest: EZ5p183Y05IeayjXhaS3poOTmWNKQXJ9yttes2XqhGk=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/ChopBoxStrategy
+ .html
+SHA-256-Digest: xQ/Mcv9dDSTVzvdh8SjH6CNDVsNJYGr8nqJGzU/VGzA=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/FXSimpleLinearGradie
+ ntPicker.html
+SHA-256-Digest: rOlNerhzUP888L/6JJYhKL55rsjtejAUyjpC/FVyBbI=
+
+Name: reference/api/allclasses-noframe.html
+SHA-256-Digest: L66TfI2ygU7wE0Ina3beclhzWzXYjtRnepiZAP1LuvY=
+
+Name: reference/api/org/eclipse/gef/fx/listeners/package-use.html
+SHA-256-Digest: KeTWTf7/Pz6ApPbWWnHDhgqLrgS1aLZwzws7VSwjkuo=
+
+Name: reference/api/index.html
+SHA-256-Digest: +/zAueVo0su3a8vS/EJgsrOkwPghmD78AZt4c+CZ/oc=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/DynamicAnchor.P
+ referredOrientation.html
+SHA-256-Digest: od3PwhQWLqFc5wCgp1bxcMSaKF/lMX8d4VA89UgdfGE=
+
+Name: reference/api/org/eclipse/gef/fx/swt/canvas/package-frame.html
+SHA-256-Digest: lJPG3YJ0uMOJS2WVSwmt2qD/CbIOMYkY62GasMCtEFM=
+
+Name: reference/api/org/eclipse/gef/fx/jface/package-summary.html
+SHA-256-Digest: Lw0qihh85KcvN/lDxtn8VIKJH/5oybBgnJEGTJYEOrY=
+
+Name: reference/wiki/FX.html
+SHA-256-Digest: sRv40WwXpeEBLkhSCXGj0fZGSjiz+LBI/FjeZA3ILik=
+
+Name: reference/api/index-files/index-16.html
+SHA-256-Digest: qt+fXn+ZYLhuC0YpzUBiJSEK95DONYSieG50xYB+t6Q=
+
+Name: reference/api/org/eclipse/gef/fx/swt/controls/class-use/FXControlA
+ dapter.IControlFactory.html
+SHA-256-Digest: ZWXnNTR7iG/DgexDkgRG0lSBAl2HvHtv0twpcxDj8II=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/package-frame.html
+SHA-256-Digest: A7wua6XKaQUltf4pinMguw+YJTVTqoHQ6bTV4DoVwpQ=
+
+Name: reference/wiki/images/fx/GEF-FX-JFace-FXPaintLabelProvider.png
+SHA-256-Digest: WglD1tyHNpnSrRoV8F3hVU7051fFyUSFLOuSVfVwj1U=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/PolylineInterpolator.html
+SHA-256-Digest: OehisdHn5pbbKdcgnWEx6TRJGAkDIrzx7ebKIDDf3uU=
+
+Name: reference/api/index-files/index-7.html
+SHA-256-Digest: 1ZVUB+N4Mnv/s0l8YZb1LJe4RKtjEN+JpcrBHsKYl70=
+
+Name: about.html
+SHA-256-Digest: SIo6368v6ECCRmakfWp6tu6+3B/aiqVh/Gus3CAyZtU=
+
+Name: reference/wiki/images/fx/GEF-FX-HoverOverlayImageView-1.png
+SHA-256-Digest: vioZlQbufDa1neI/58JKF6cavO2TbidBQQPcft0qes0=
+
+Name: reference/api/index-files/index-1.html
+SHA-256-Digest: 2X8SOjsISE53CZWI0oN1ohaME4dWv4TiqrC2nWhWkd0=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/StraightRouter.html
+SHA-256-Digest: 81Fes62ehu6J3ym7lqgLwB26P/GqRQTZ2jdX5lAJpac=
+
+Name: reference/api/index-files/index-4.html
+SHA-256-Digest: wcOunmiRPz5vLEUfcZMvD/UimogM8dxGg3nb6Bd9PJI=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/DynamicAnchor.PreferredOr
+ ientation.html
+SHA-256-Digest: fvaXw+A65LZ4H1avE1IE71xL3wtTm6xB6t155ECRyL0=
+
+Name: reference/api/org/eclipse/gef/fx/class-use/FxBundle.html
+SHA-256-Digest: CgyXZenUA9YCfjJH2vS0J/6/zU11oDsyfD8FOA9w0Qc=
+
+Name: reference/wiki/images/fx/GEF-FX-JFace-FXPaintCellEditor.png
+SHA-256-Digest: VuK26cUWrT+bMLJSMJ8OB+dkmrSWw7Jee40HARNGe98=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/package-summary.html
+SHA-256-Digest: yKSE2IhTIjYSoR0ZDT059g1zRZ/2mWifuQUbAAsmBIY=
+
+Name: reference/api/org/eclipse/gef/fx/swt/canvas/FXCanvasEx.html
+SHA-256-Digest: W0jDFwGwUbjArE3pxinxL6i5omIZtBDPSBZkuzjC1Xg=
+
+Name: reference/api/index-files/index-10.html
+SHA-256-Digest: v7/AP7C5jdXwzOldrDq/9oxxQrivStSKCLgeDIiSRv0=
+
+Name: reference/api/org/eclipse/gef/fx/package-frame.html
+SHA-256-Digest: Iu1KMU5hJ41GqV3FXWFzrfndbYjUjJb67DbCBUpI3OI=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/Connection.html
+SHA-256-Digest: hbFO8/IKJ/Ie7QucDM65C8mTjWxYnTOlw9kDxSkx2g8=
+
+Name: reference/api/overview-frame.html
+SHA-256-Digest: MhjuRJHdv4SdkX5Du99gRsE9yATknumYxXHAyiHU4ck=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/OrthogonalRouter.html
+SHA-256-Digest: 5DKH7S7eVaP+aGrpDXotSxbrYndvSl+wGPRUUeL+oPo=
+
+Name: reference/wiki/images/fx/GEF-FX-SWT-FXColorPicker.png
+SHA-256-Digest: UaVu4uENNgcSODuwskM0TRHYpdsjQWMhwCb2f/zCj1U=
+
+Name: reference/api/org/eclipse/gef/fx/utils/class-use/CursorUtils.html
+SHA-256-Digest: z62SKYYPaxi/kZdA3q1mwuqA0w5wAqvVLmwWq8kXOpQ=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/class-use/StaticAnchor.ht
+ ml
+SHA-256-Digest: LmMvQZ4AGKmbf+FiV+VEVUO7xTLQ2IdbNBAqjoeshXk=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/IAnchor.html
+SHA-256-Digest: IlzOz/xY4wqAuySHKMUUwpC2STs+nRizNH/jlHIkl7I=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/OrthogonalRouter.
+ html
+SHA-256-Digest: EXTHoOJabE7uN9FepvFAdjGLL3amlsPJJJJ/ygatnIc=
+
+Name: reference/api/org/eclipse/gef/fx/nodes/class-use/PolyBezierInterpo
+ lator.html
+SHA-256-Digest: FlNjGq4fI1TfbCSyW4sC1X4EFzF+hEzkrPcPWcucrjE=
+
+Name: reference/api/org/eclipse/gef/fx/anchors/DynamicAnchor.AnchoredRef
+ erencePoint.html
+SHA-256-Digest: Uoodni0rRb3MFoeCSygmdv3GTdAW80GZgAWNdFk8hOA=
+
